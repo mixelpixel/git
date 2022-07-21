@@ -12,3 +12,9 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[init]
+	; Sets `git init`s default branch name to "main"
+	; The template directory contains a text file, "HEAD" which reads:
+	; `ref: refs/head/main`
+	; followed by a newline.
+	templateDir = ~/.config/git/template/
