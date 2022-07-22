@@ -29,6 +29,7 @@ $ pwd
 $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
 ```
 
 ### sh
@@ -54,6 +55,7 @@ $ pwd
 $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
 ```
 
 ### gfm
@@ -79,6 +81,7 @@ $ pwd
 $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
 ```
 
 ### md
@@ -104,6 +107,7 @@ $ pwd
 $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
 ```
 
 ---
