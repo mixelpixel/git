@@ -8,8 +8,10 @@ Which syntax highlighting language identifier looks the best with triple-backtic
 
 Per GitHub's languageId list, "[linguist](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)"
 
-> # aliases - An Array of additional aliases
-> #           (implicitly includes name.downcase)
+```yaml
+# aliases - An Array of additional aliases
+#           (implicitly includes name.downcase)
+```
 
 *(see list)*
 
@@ -88,9 +90,9 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
-### `md`
+### `markdown`
 
-```md
+```markdown
 foo@bar:~$ whoami
 foo
 
