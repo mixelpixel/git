@@ -42,6 +42,23 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 > curl https://api.mainnet-beta.solana.com \
 -H "Content-Type: application/json" \
 -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
+me@home:~$ ls -l swift
+total 8
+-rw-r--r--  1 mixelpix  staff  140 Nov  8  2018 first.swift
+
+me@home:~$ pwd
+/Users/mixelpix
+
+me@home:~> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
+me@home:~$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
+me@home:~% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+
+me@home:~> curl https://api.mainnet-beta.solana.com \
+-H "Content-Type: application/json" \
+-d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
 ### `sh`
