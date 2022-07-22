@@ -6,7 +6,7 @@ resource files'n'stuff
 
 Which syntax highlighting key looks the best?
 
-### console
+### `console`
 
 ```console
 foo@bar:~$ whoami
@@ -32,7 +32,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 
 ```
 
-### sh
+### `sh`
 
 ```sh
 foo@bar:~$ whoami
@@ -58,7 +58,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 
 ```
 
-### gfm
+### `gfm`
 
 ```gfm
 foo@bar:~$ whoami
@@ -84,7 +84,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 
 ```
 
-### md
+### `md`
 
 ```md
 foo@bar:~$ whoami
