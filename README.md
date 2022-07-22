@@ -9,7 +9,7 @@ resource files'n'stuff
 foo@bar:~$ whoami
 foo
 
-me@home:~$ curl https://icanhazdadjoke.com > dadjoke.txt
+me@home:~$ curl 'https://icanhazdadjoke.com' > dadjoke.txt
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100    65  100    65    0     0    336      0 --:--:-- --:--:-- --:--:--   355
@@ -34,7 +34,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" 
 foo@bar:~$ whoami
 foo
 
-me@home:~$ curl https://icanhazdadjoke.com > dadjoke.txt
+me@home:~$ curl 'https://icanhazdadjoke.com' > dadjoke.txt
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100    65  100    65    0     0    336      0 --:--:-- --:--:-- --:--:--   355
@@ -59,7 +59,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" 
 foo@bar:~$ whoami
 foo
 
-me@home:~$ curl https://icanhazdadjoke.com > dadjoke.txt
+me@home:~$ curl 'https://icanhazdadjoke.com' > dadjoke.txt
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100    65  100    65    0     0    336      0 --:--:-- --:--:-- --:--:--   355
