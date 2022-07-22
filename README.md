@@ -1,9 +1,12 @@
 # git
+
 resource files'n'stuff
 
 ## Testing GitHub-Flavored Markdown
 
-### `console`
+Which syntax highlighting key looks the best?
+
+### console
 
 ```console
 foo@bar:~$ whoami
@@ -28,7 +31,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
-### `sh`
+### sh
 
 ```sh
 foo@bar:~$ whoami
@@ -53,7 +56,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
-### `gfm`
+### gfm
 
 ```gfm
 foo@bar:~$ whoami
@@ -78,7 +81,7 @@ $ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -
 % curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
-### `md`
+### md
 
 ```md
 foo@bar:~$ whoami
