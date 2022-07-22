@@ -21,11 +21,11 @@ total 8
 $ pwd
 /Users/mixelpix
 
-> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
 ### `sh`
@@ -46,11 +46,11 @@ total 8
 $ pwd
 /Users/mixelpix
 
-> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
 ### `gfm`
@@ -71,11 +71,11 @@ total 8
 $ pwd
 /Users/mixelpix
 
-> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
 ### `md`
@@ -96,11 +96,11 @@ total 8
 $ pwd
 /Users/mixelpix
 
-> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+> curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+$ curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 
-% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/jsonn" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
+% curl https://api.mainnet-beta.solana.com -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","id":"1","method":"getBalance","params":["6MoX4kcNrC75Rihp6xfB36Zv5ePp4xKg7Lr3ka6TfefX", {"commitment":"confirmed"}]}'
 ```
 
 ---
