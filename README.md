@@ -4,7 +4,14 @@ resource files'n'stuff
 
 ## Testing GitHub-Flavored Markdown
 
-Which syntax highlighting language identifier looks the best with console commands and output?
+Which syntax highlighting language identifier looks the best with triple-backtick code blocks of console commands and output?
+
+Per GitHub's languageId list, "[linguist](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)"
+
+> # aliases - An Array of additional aliases
+> #           (implicitly includes name.downcase)
+
+*(see list)*
 
 ### `console`
 
