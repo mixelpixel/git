@@ -4,9 +4,9 @@ resource files'n'stuff
 
 ## Testing GitHub-Flavored Markdown
 
-Which syntax highlighting key looks the best `\`\`\`console`?
+Which syntax highlighting key looks the best?
 
-### ````console`
+### `console`
 
 ```console
 foo@bar:~$ whoami
