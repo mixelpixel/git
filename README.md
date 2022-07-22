@@ -25,8 +25,9 @@ me@home:~$ curl 'https://icanhazdadjoke.com' > dadjoke.txt
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100    65  100    65    0     0    336      0 --:--:-- --:--:-- --:--:--   355
-
-$ ls -l swift
+me@home:~>  cat dadjoke.txt
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+me@home:~>% ls -l swift
 total 8
 -rw-r--r--  1 mixelpix  staff  140 Nov  8  2018 first.swift
 
